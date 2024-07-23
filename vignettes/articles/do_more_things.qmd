@@ -1,7 +1,9 @@
 ---
 title: "Do More Things"
-format: html
-editor: visual
+vignette: >
+  %\VignetteIndexEntry{quarto vignettes}
+  %\VignetteEngine{quarto::html}
+  %\VignetteEncoding{UTF-8}
 ---
 
 ## Quarto
