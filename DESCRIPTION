@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/amason30/Min
 BugReports: https://github.com/amason30/Min/issues
+Config/Needs/website: rmarkdown
