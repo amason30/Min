@@ -9,6 +9,9 @@ on:
     types: [published]
   workflow_dispatch:
 
+name: Set up Quarto
+  uses: quarto-dev/quarto-actions/setup@v2
+
 name: pkgdown
 
 permissions: read-all
