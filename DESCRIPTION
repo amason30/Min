@@ -9,6 +9,6 @@ Description: More about what it does (maybe more than one line)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/amason30/Min
+URL: https://github.com/amason30/Min, https://amason30.github.io/Min/
 BugReports: https://github.com/amason30/Min/issues
 Config/Needs/website: rmarkdown
