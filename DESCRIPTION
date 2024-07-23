@@ -12,3 +12,5 @@ LazyData: true
 URL: https://github.com/amason30/Min, https://amason30.github.io/Min/
 BugReports: https://github.com/amason30/Min/issues
 Config/Needs/website: rmarkdown
+VignetteBuilder:
+    quarto
